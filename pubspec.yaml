@@ -1,0 +1,44 @@
+name: responsive_dashboard_mobile_desk_web
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  device_preview: ^1.1.0
+  expandable_page_view: ^1.0.17
+  fl_chart: ^0.65.0
+  flutter_svg: ^2.0.9
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+        - asset: assets/fonts/Montserrat-Medium.ttf
+          weight: 500
+
+flutter_assets:
+  assets_path: assets/images
+  output_path: lib/utils
+  filename: app_images.dart
+  field_prefix: null
