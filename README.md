@@ -1,16 +1,42 @@
-# responsive_dashboard_mobile_desk_web
+# 💳 Responsive Finance Dashboard
 
-A new Flutter project.
+A modern and fully responsive finance dashboard designed for desktop, tablet, and mobile devices.
 
-## Getting Started
+## 📸 Project Preview
 
-This project is a starting point for a Flutter application.
+![Responsive Finance Dashboard](./9bc45321-c16a-4c85-b3b6-f4092b5e96fc.png)
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📊 Income, expenses, and savings overview
+- 💳 Bank card management UI
+- 💰 Transaction history
+- 📈 Financial statistics and analytics
+- 🧾 Quick payment shortcuts
+- 📱 Fully responsive design
+- 🎨 Modern and clean user interface
+- 💻 Desktop, tablet, and mobile support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Responsive Design
+
+The dashboard adapts seamlessly to different screen sizes:
+
+- **Desktop:** Full dashboard with sidebar navigation
+- **Tablet:** Optimized layout with compact components
+- **Mobile:** Mobile-friendly interface with responsive cards
+
+## 🎯 Project Objective
+
+Build a professional finance dashboard interface that provides a smooth and consistent user experience across all devices.
+
+## 👨‍💻 Developer
+
+**Ahmed Jaber Ahmed**
+
+- [GitHub](https://github.com/AhmedJaberAhmed)
+- [LinkedIn](https://www.linkedin.com/in/ahmedjaberahmed/)
+- [Portfolio](https://ahmedjaberahmed.github.io/Jaber-website/)
+
+---
+
+⭐ If you like this project, consider giving it a star!
